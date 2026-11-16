@@ -3,6 +3,8 @@
 A terminal-inspired startpage for **Brave** (and other Chromium-based browsers).<br>
 Developed entirely in a **single HTML file** using pure HTML, CSS, and vanilla JavaScript, with no external dependencies or frameworks.
 
+![enter image description here](https://github.com/andreadevita99/startpage/blob/main/mockup.png)
+
 ## ✨ Features
 
 - **Modern Terminal Interface:** Clean design, smooth animations, and support for polished visual effects.
